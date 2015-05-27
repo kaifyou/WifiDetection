@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiDetection</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_scan">扫描网络</string>
+    <string name="btn_start">打开Wifi</string>
+    <string name="btn_stop">关闭Wifi</string>
+    <string name="btn_check">Wifi状态</string>
+	<string name="textWifi">当前没有扫描到Wifi网络</string>
+</resources>
